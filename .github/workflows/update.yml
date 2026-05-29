@@ -51,7 +51,7 @@ jobs:
           git diff --cached --quiet || git commit -m "update m3u fast [skip ci]" --no-verify
           git push origin HEAD:main || (git commit --amend --no-edit && git push origin HEAD:main)
 
-      - name: Sync tv.m3u to public repo
+      - name: Sync chuoi_chien_streams.m3u to public repo
         run: |
           git clone https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/huybuonvp/xembongda.git
           cp chuoi_chien_streams.m3u xembongda/
