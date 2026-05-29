@@ -28,7 +28,7 @@ jobs:
           pip install curl_cffi requests
 
       - name: Run Scraper Engine (JSON + M3U)
-        run: python Chuoi Scraper.py -f m3u8 -o chuoi_chien_streams.json
+        run: python chuoiscraper.py -f m3u8 -o chuoi_chien_streams.json
 
       - name: Commit Changes
         run: |
