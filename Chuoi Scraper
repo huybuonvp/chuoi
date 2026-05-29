@@ -1,0 +1,168 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import json, time, argparse
+from datetime import datetime, timedelta
+from typing import List, Optional
+from dataclasses import dataclass, asdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from curl_cffi import requests
+
+# =========================================================
+# DATA CLASS
+# =========================================================
+@dataclass
+class ChuoiChienStream:
+    match_id: str
+    home: str
+    away: str
+    kickoff: Optional[str] = None
+    logo: Optional[str] = None
+    streamer: Optional[str] = None
+    links: List[str] = None
+
+# =========================================================
+# SCRAPER
+# =========================================================
+class ChuoiChienScraper:
+    BASE_URL = "https://api-v2.chuoichientv.com/v2/matches"
+
+    def __init__(self):
+        proxy_url = "http://ZalMQa:BRQrEd@14.250.212.38:36428"
+        self.session = requests.Session(impersonate="chrome136")
+        self.session.proxies = {"http": proxy_url, "https": proxy_url}
+        self.session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/136.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+            "Referer": "https://chuoichientv.com/",
+            "Origin": "https://chuoichientv.com",
+        })
+
+    def fetch_matches(self, page: int = 1, limit: int = 50) -> List[dict]:
+        url = f"{self.BASE_URL}?page={page}&limit={limit}&sport=&type=blv"
+        for _ in range(3):
+            try:
+                resp = self.session.get(url, timeout=20)
+                if resp.status_code == 200:
+                    return resp.json().get("matches", [])
+                time.sleep(2)
+            except Exception as e:
+                print(f"[ERROR] {e}")
+                time.sleep(2)
+        return []
+
+    def parse_match(self, match: dict) -> List[ChuoiChienStream]:
+        home = match.get("teams", {}).get("home", {}).get("name", "Unknown Home")
+        away = match.get("teams", {}).get("away", {}).get("name", "Unknown Away")
+        logo = match.get("teams", {}).get("home", {}).get("logo", "")
+
+        kickoff = "N/A"
+        try:
+            dt = datetime.strptime(match["matchTime"][:19], "%Y-%m-%dT%H:%M:%S") + timedelta(hours=7)
+            kickoff = dt.strftime("%H:%M")
+        except Exception as e:
+            print(f"[TIME ERROR] {e}")
+
+        grouped = {}
+        for group in ["blvs", "blvs_bonglau"]:
+            for blv in match.get(group, []):
+                name = blv.get("name", "Unknown")
+                key = (match.get("id", ""), name)
+                if key not in grouped:
+                    grouped[key] = {
+                        "match_id": str(match.get("id", "")),
+                        "home": home,
+                        "away": away,
+                        "kickoff": kickoff,
+                        "logo": logo,
+                        "streamer": name,
+                        "links": set()
+                    }
+                for s in blv.get("streams", []):
+                    url = s.get("url", "")
+                    if any(ext in url for ext in [".m3u8", ".flv"]):
+                        grouped[key]["links"].add(url)
+
+        streams = []
+        for key, info in grouped.items():
+            if info["links"]:
+                # Ưu tiên sắp xếp link
+                def priority(u: str) -> int:
+                    u = u.lower()
+                    if "hd" in u and u.endswith(".m3u8"): return 1
+                    if u.endswith(".m3u8"): return 2
+                    if "hd" in u and u.endswith(".flv"): return 3
+                    if u.endswith(".flv"): return 4
+                    return 99
+                sorted_links = sorted(info["links"], key=priority)
+
+                streams.append(
+                    ChuoiChienStream(
+                        match_id=info["match_id"],
+                        home=info["home"],
+                        away=info["away"],
+                        kickoff=info["kickoff"],
+                        logo=info["logo"],
+                        streamer=info["streamer"],
+                        links=sorted_links
+                    )
+                )
+        return streams
+
+    def get_all_streams(self, max_pages: int = 5) -> List[ChuoiChienStream]:
+        streams = []
+        for page in range(1, max_pages + 1):
+            matches = self.fetch_matches(page=page)
+            if not matches:
+                break
+            print(f"[INFO] PAGE {page} MATCHES: {len(matches)}")
+
+            with ThreadPoolExecutor(max_workers=20) as executor:
+                future_map = {executor.submit(self.parse_match, m): m for m in matches}
+                for future in as_completed(future_map):
+                    try:
+                        result = future.result()
+                        streams.extend(result)
+                        for s in result:
+                            print(f"[+] {s.match_id} | {s.home} vs {s.away} | {s.kickoff} | {s.streamer}")
+                    except Exception as e:
+                        print(f"[-] ERROR parsing match -> {e}")
+
+        return streams
+
+# =========================================================
+# MAIN
+# =========================================================
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-o", "--output", default="chuoi_chien_streams.json")
+    parser.add_argument("-p", "--pages", type=int, default=5, help="Số page cần lấy")
+    args = parser.parse_args()
+
+    scraper = ChuoiChienScraper()
+    streams = scraper.get_all_streams(max_pages=args.pages)
+
+    # JSON
+    with open(args.output, "w", encoding="utf-8") as f:
+        json.dump([asdict(s) for s in streams], f, indent=2, ensure_ascii=False)
+    print("[+] JSON saved")
+
+    # M3U
+    with open("chuoi_chien_tv.m3u", "w", encoding="utf-8") as mf:
+        mf.write("#EXTM3U\n\n")
+        for s in streams:
+            if not s.links: continue
+            title = f"[{s.kickoff}] {s.home} vs {s.away} | {s.streamer}"
+            mf.write("#KODIPROP:http-user-agent=Mozilla/5.0\n")
+            mf.write("#EXTVLCOPT:http-user-agent=Mozilla/5.0\n")
+            mf.write(f'#EXTINF:-1 tvg-id="{s.match_id}" tvg-name="{title}" '
+                     f'tvg-logo="{s.logo}" group-title="CHUOI CHIEN TV",{title}\n')
+            for url in s.links:
+                mf.write(url + "\n")
+            mf.write("\n")
+    print("[+] M3U saved")
+
+if __name__ == "__main__":
+    main()
