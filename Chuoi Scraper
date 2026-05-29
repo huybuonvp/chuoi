@@ -150,7 +150,7 @@ def main():
     print("[+] JSON saved")
 
     # M3U
-    with open("chuoi_chien_tv.m3u", "w", encoding="utf-8") as mf:
+    with open("chuoi_chien_streams.m3u", "w", encoding="utf-8") as mf:
         mf.write("#EXTM3U\n\n")
         for s in streams:
             if not s.links: continue
