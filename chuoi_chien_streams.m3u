@@ -2,22 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Masr vs Kahraba Ismailia | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130128_a8132095.png" group-title="CHUOI CHIEN TV",[21:00] Masr vs Kahraba Ismailia | Chuối Tây
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[22:30] Iran vs Gambia | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134251_b96e660a.png" group-title="CHUOI CHIEN TV",[22:30] Iran vs Gambia | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[23:00] France U17 vs Denmark U17 | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144523_e304fc82.png" group-title="CHUOI CHIEN TV",[23:00] France U17 vs Denmark U17 | Chuối To
 https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
