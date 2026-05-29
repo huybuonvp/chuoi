@@ -2,7 +2,7 @@ name: Auto Scrape Live Streams
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Tự động chạy mỗi 20 phút một lần
+    - cron: '*/20 * * * *' # Tự động chạy mỗi 20 phút một lần
   workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ nút "Run workflow"
 
 jobs:
@@ -28,15 +28,15 @@ jobs:
           pip install curl_cffi requests
 
       - name: Run Scraper Engine (JSON + M3U)
-        run: python ccscraper.py -f m3u -o chuoi_chien_streams.json
+        run: python ccscraper.py -o chuoi_chien_streams.json -p 5
 
       - name: Commit Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add chuoi_chien_streams.json chuoi_chien_streams.m3u8
+          git add chuoi_chien_streams.json chuoi_chien_streams.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "System: Auto-update streams and IPTV playlist [skip ci]"
 
-      - name: Push Changes (Force)
+      - name: Push Changes
         run: |
-          git push origin main --force
+          git push origin main
