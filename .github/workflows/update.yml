@@ -53,11 +53,11 @@ jobs:
 
       - name: Sync tv.m3u to public repo
         run: |
-          git clone https://github.com/huybuonvp/xembongda.git
+          git clone https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/huybuonvp/xembongda.git
           cp chuoi_chien_streams.m3u xembongda/
           cd xembongda
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add chuoi_chien_streams.m3u
           git commit -m "Update chuoi_chien_streams.m3u from private repo" || echo "No changes"
-          git push https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/huybuonvp/xembongda.git main
+          git push origin main
