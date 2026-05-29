@@ -1,25 +1,88 @@
-name: Auto Scrape Live Streams
+name: Update M3U FAST
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Tự động chạy mỗi 20 phút một lần
-  workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ nút "Run workflow"
+    - cron: '*/30 * * * *'   # chạy mỗi 30 phút
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-streams:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Cho phép ghi dữ liệu lên Repo
+    timeout-minutes: 20
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout private repo
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Lấy toàn bộ lịch sử để tránh lỗi non-fast-forward
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python Environment
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
+          python-version: '3.10'
+
+      - name: Cache pip & pycache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            __pycache__
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests==2.32.3 beautifulsoup4==4.12.3
+
+      - name: Run ccscraper.py
+        run: python ccscraper.py
+
+      - name: Commit & Push changes in private repo
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add chuoi_chien_streams.m3u.m3u chuoi_chien_streams.json
+          git diff --cached --quiet || git commit -m "update m3u fast [skip ci]" --no-verify
+          git push origin HEAD:main || (git commit --amend --no-edit && git push origin HEAD:main)
+
+      - name: Sync tv.m3u to public repo
+        run: |
+          git clone https://github.com/huybuonvp/xembongda.git
+          cp chuoi_chien_streams.m3u xembongda/
+          cd xembongda
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add chuoi_chien_streams.m3u
+          git commit -m "Update chuoi_chien_streams.m3u from private repo" || echo "No changes"
+          git push https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/huybuonvp/xembongda.git main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           python-version: '3.10'
 
       - name: Install Critical Dependencies
