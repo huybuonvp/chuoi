@@ -1,34 +1,6 @@
 [
   {
     "match_id": "",
-    "home": "Quy Nhơn FC",
-    "away": "Bắc Ninh",
-    "kickoff": "16:00",
-    "logo": "https://media.chuoichientv.com/media/20250912_195544_125d9f93.jpeg",
-    "streamer": "Chuối To",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Trường Tươi Đồng Nai",
-    "away": "Long An FC",
-    "kickoff": "16:00",
-    "logo": "https://media.chuoichientv.com/media/20251121_155919_59876ece.png",
-    "streamer": "Anh Hột",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
-    ]
-  },
-  {
-    "match_id": "",
     "home": "Scotland",
     "away": "Curaçao",
     "kickoff": "19:00",
