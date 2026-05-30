@@ -2,14 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Scotland vs Curaçao | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125506_b8b07bcf.png" group-title="CHUOI CHIEN TV",[19:00] Scotland vs Curaçao | Chuối To
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[23:00] Paris Saint Germain vs Arsenal | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125513_ca6329d9.png" group-title="CHUOI CHIEN TV",[23:00] Paris Saint Germain vs Arsenal | Chuối Xuyên Không
 https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
