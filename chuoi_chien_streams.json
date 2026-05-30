@@ -5,12 +5,12 @@
     "away": "Arsenal",
     "kickoff": "23:00",
     "logo": "https://media.chuoichientv.com/media/uploads/20250623_125513_ca6329d9.png",
-    "streamer": "Chuối Xuyên Không",
+    "streamer": "Chuối Nhỏ",
     "links": [
-      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/max.flv"
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
     ]
   },
   {
@@ -19,12 +19,12 @@
     "away": "Arsenal",
     "kickoff": "23:00",
     "logo": "https://media.chuoichientv.com/media/uploads/20250623_125513_ca6329d9.png",
-    "streamer": "Chuối Nhỏ",
+    "streamer": "Chuối Xuyên Không",
     "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
+      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/max.flv"
     ]
   },
   {
