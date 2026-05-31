@@ -2,46 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[17:25] Japan vs Iceland | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV",[17:25] Japan vs Iceland | Chuối Nhỏ
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Công An Hà Nội vs Becamex Hồ Chí Minh | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/20250823_192612_72e9a551.webp" group-title="CHUOI CHIEN TV",[18:00] Công An Hà Nội vs Becamex Hồ Chí Minh | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132406_ab87503a.png" group-title="CHUOI CHIEN TV",[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Tây
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Nam Dinh vs Song Lam Nghe An | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/20251204_035149_f918db1e.png" group-title="CHUOI CHIEN TV",[18:00] Nam Dinh vs Song Lam Nghe An | Anh Hột
-https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Thanh Hóa vs Ninh Bình FC | Chuối To" tvg-logo="https://media.chuoichientv.com/media/20250817_040540_cdc05b23.png" group-title="CHUOI CHIEN TV",[18:00] Thanh Hóa vs Ninh Bình FC | Chuối To
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[20:00] Switzerland vs Jordan | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png" group-title="CHUOI CHIEN TV",[20:00] Switzerland vs Jordan | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
