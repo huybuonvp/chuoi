@@ -33,12 +33,12 @@
     "away": "Da Nang",
     "kickoff": "18:00",
     "logo": "https://media.chuoichientv.com/media/uploads/20250623_132406_ab87503a.png",
-    "streamer": "Chuối Bơ",
+    "streamer": "Chuối Tây",
     "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
     ]
   },
   {

@@ -18,11 +18,11 @@ https://gckc0525.edgemaxcdn.org/live/max.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132406_ab87503a.png" group-title="CHUOI CHIEN TV",[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Bơ
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:-1 tvg-id="" tvg-name="[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132406_ab87503a.png" group-title="CHUOI CHIEN TV",[18:00] Hồng Lĩnh Hà Tĩnh vs Da Nang | Chuối Tây
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
