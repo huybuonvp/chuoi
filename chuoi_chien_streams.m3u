@@ -2,14 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[02:30] USA vs Senegal | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132739_e67768f5.png" group-title="CHUOI CHIEN TV",[02:30] USA vs Senegal | Chuối Bơ
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[04:30] Brazil vs Panama | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png" group-title="CHUOI CHIEN TV",[04:30] Brazil vs Panama | Chuối Xuyên Không
 https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
