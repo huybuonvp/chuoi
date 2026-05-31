@@ -2,22 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Czech Republic vs Kosovo | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125458_7fda1723.png" group-title="CHUOI CHIEN TV",[21:00] Czech Republic vs Kosovo | Chuối Bơ
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Brighton W vs Manchester City W | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133730_0730edef.png" group-title="CHUOI CHIEN TV",[21:00] Brighton W vs Manchester City W | Chuối To
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[22:30] Poland vs Ukraine | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV",[22:30] Poland vs Ukraine | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
