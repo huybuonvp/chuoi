@@ -2,22 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[04:30] Brazil vs Panama | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png" group-title="CHUOI CHIEN TV",[04:30] Brazil vs Panama | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[04:30] Brazil vs Panama | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png" group-title="CHUOI CHIEN TV",[04:30] Brazil vs Panama | Anh Hột
-https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[16:00] Vietnam U19 vs Timor-Leste U19 | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144744_6270222c.png" group-title="CHUOI CHIEN TV",[16:00] Vietnam U19 vs Timor-Leste U19 | Chuối Tây
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8

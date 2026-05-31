@@ -1,34 +1,6 @@
 [
   {
     "match_id": "",
-    "home": "Brazil",
-    "away": "Panama",
-    "kickoff": "04:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",
-    "streamer": "Chuối Xuyên Không",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/max.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Brazil",
-    "away": "Panama",
-    "kickoff": "04:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",
-    "streamer": "Anh Hột",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
-    ]
-  },
-  {
-    "match_id": "",
     "home": "Vietnam U19",
     "away": "Timor-Leste U19",
     "kickoff": "16:00",
