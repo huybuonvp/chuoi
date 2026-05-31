@@ -1,62 +1,6 @@
 [
   {
     "match_id": "",
-    "home": "Ecuador",
-    "away": "Saudi Arabia",
-    "kickoff": "06:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132810_d11dcb2d.png",
-    "streamer": "Chuối Tiêu",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "South Korea",
-    "away": "Trinidad and Tobago",
-    "kickoff": "08:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134249_74d9edd1.png",
-    "streamer": "Chuối Xuyên Không",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/max.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "South Korea",
-    "away": "Trinidad and Tobago",
-    "kickoff": "08:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134249_74d9edd1.png",
-    "streamer": "Anh Hột",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Mexico",
-    "away": "Australia",
-    "kickoff": "09:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",
-    "streamer": "Chuối Tiêu",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
-    ]
-  },
-  {
-    "match_id": "",
     "home": "Japan",
     "away": "Iceland",
     "kickoff": "17:25",
@@ -99,6 +43,34 @@
   },
   {
     "match_id": "",
+    "home": "Nam Dinh",
+    "away": "Song Lam Nghe An",
+    "kickoff": "18:00",
+    "logo": "https://media.chuoichientv.com/media/20251204_035149_f918db1e.png",
+    "streamer": "Anh Hột",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Thanh Hóa",
+    "away": "Ninh Bình FC",
+    "kickoff": "18:00",
+    "logo": "https://media.chuoichientv.com/media/20250817_040540_cdc05b23.png",
+    "streamer": "Chuối To",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+    ]
+  },
+  {
+    "match_id": "",
     "home": "Switzerland",
     "away": "Jordan",
     "kickoff": "20:00",
@@ -127,6 +99,20 @@
   },
   {
     "match_id": "",
+    "home": "Brighton W",
+    "away": "Manchester City W",
+    "kickoff": "21:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_133730_0730edef.png",
+    "streamer": "Chuối To",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+    ]
+  },
+  {
+    "match_id": "",
     "home": "Poland",
     "away": "Ukraine",
     "kickoff": "22:30",
@@ -141,6 +127,20 @@
   },
   {
     "match_id": "",
+    "home": "Poland",
+    "away": "Ukraine",
+    "kickoff": "22:30",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png",
+    "streamer": "Anh Hột",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
+    ]
+  },
+  {
+    "match_id": "",
     "home": "Germany",
     "away": "Finland",
     "kickoff": "01:45",
@@ -151,6 +151,20 @@
       "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
       "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
       "https://gckc0525.edgemaxcdn.org/live/max.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Germany",
+    "away": "Finland",
+    "kickoff": "01:45",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",
+    "streamer": "Chuối To",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
     ]
   },
   {
@@ -179,6 +193,20 @@
       "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
       "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
       "https://gckc0525.edgemaxcdn.org/live/max.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Brazil",
+    "away": "Panama",
+    "kickoff": "04:30",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",
+    "streamer": "Anh Hột",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/anhhot.flv"
     ]
   }
 ]

@@ -2,38 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[06:30] Ecuador vs Saudi Arabia | Chuối Tiêu" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132810_d11dcb2d.png" group-title="CHUOI CHIEN TV",[06:30] Ecuador vs Saudi Arabia | Chuối Tiêu
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[08:00] South Korea vs Trinidad and Tobago | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV",[08:00] South Korea vs Trinidad and Tobago | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[08:00] South Korea vs Trinidad and Tobago | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV",[08:00] South Korea vs Trinidad and Tobago | Anh Hột
-https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[09:00] Mexico vs Australia | Chuối Tiêu" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png" group-title="CHUOI CHIEN TV",[09:00] Mexico vs Australia | Chuối Tiêu
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[17:25] Japan vs Iceland | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV",[17:25] Japan vs Iceland | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -58,6 +26,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[18:00] Nam Dinh vs Song Lam Nghe An | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/20251204_035149_f918db1e.png" group-title="CHUOI CHIEN TV",[18:00] Nam Dinh vs Song Lam Nghe An | Anh Hột
+https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[18:00] Thanh Hóa vs Ninh Bình FC | Chuối To" tvg-logo="https://media.chuoichientv.com/media/20250817_040540_cdc05b23.png" group-title="CHUOI CHIEN TV",[18:00] Thanh Hóa vs Ninh Bình FC | Chuối To
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[20:00] Switzerland vs Jordan | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png" group-title="CHUOI CHIEN TV",[20:00] Switzerland vs Jordan | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -74,6 +58,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] Brighton W vs Manchester City W | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133730_0730edef.png" group-title="CHUOI CHIEN TV",[21:00] Brighton W vs Manchester City W | Chuối To
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[22:30] Poland vs Ukraine | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV",[22:30] Poland vs Ukraine | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -82,11 +74,27 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] Poland vs Ukraine | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV",[22:30] Poland vs Ukraine | Anh Hột
+https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[01:45] Germany vs Finland | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png" group-title="CHUOI CHIEN TV",[01:45] Germany vs Finland | Chuối Xuyên Không
 https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[01:45] Germany vs Finland | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png" group-title="CHUOI CHIEN TV",[01:45] Germany vs Finland | Chuối To
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -103,4 +111,12 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[04:30] Brazil vs Panama | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png" group-title="CHUOI CHIEN TV",[04:30] Brazil vs Panama | Anh Hột
+https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
 
