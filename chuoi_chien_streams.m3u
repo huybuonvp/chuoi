@@ -2,22 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[22:30] Poland vs Ukraine | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV",[22:30] Poland vs Ukraine | Chuối Nhỏ
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[22:30] Poland vs Ukraine | Anh Hột" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV",[22:30] Poland vs Ukraine | Anh Hột
-https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[01:45] Germany vs Finland | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png" group-title="CHUOI CHIEN TV",[01:45] Germany vs Finland | Chuối Xuyên Không
 https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
