@@ -2,30 +2,6 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[00:30] Türkiye vs FYR Macedonia | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[00:30] Türkiye vs FYR Macedonia | Chuối Nhỏ
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[00:30] Türkiye vs FYR Macedonia | Anh Béo" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[00:30] Türkiye vs FYR Macedonia | Anh Béo
-https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv
-https://gckc0525.edgemaxcdn.org/live/anhbeo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[01:45] Austria vs Tunisia | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125502_71d98139.png" group-title="CHUOI CHIEN TV",[01:45] Austria vs Tunisia | Chuối Bơ
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="[06:00] Colombia vs Costa Rica | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132807_7f305cf9.png" group-title="CHUOI CHIEN TV",[06:00] Colombia vs Costa Rica | Chuối Tây
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8

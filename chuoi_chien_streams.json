@@ -1,48 +1,6 @@
 [
   {
     "match_id": "",
-    "home": "Türkiye",
-    "away": "FYR Macedonia",
-    "kickoff": "00:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png",
-    "streamer": "Chuối Nhỏ",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Türkiye",
-    "away": "FYR Macedonia",
-    "kickoff": "00:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png",
-    "streamer": "Anh Béo",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeo.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Austria",
-    "away": "Tunisia",
-    "kickoff": "01:45",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125502_71d98139.png",
-    "streamer": "Chuối Bơ",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
-    ]
-  },
-  {
-    "match_id": "",
     "home": "Colombia",
     "away": "Costa Rica",
     "kickoff": "06:00",
