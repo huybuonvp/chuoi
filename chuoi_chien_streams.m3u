@@ -2,15 +2,7 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:30] Denmark U17 vs Italy U17 | Ngộ Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144533_426eb2ea.png" group-title="CHUOI CHIEN TV",[18:30] Denmark U17 vs Italy U17 | Ngộ Không
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
-https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[18:30] France U17 vs Montenegro U17 | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144523_e304fc82.png" group-title="CHUOI CHIEN TV",[18:30] France U17 vs Montenegro U17 | Chuối Nhỏ
+#EXTINF:-1 tvg-id="" tvg-name="[00:30] Türkiye vs FYR Macedonia | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[00:30] Türkiye vs FYR Macedonia | Chuối Nhỏ
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
@@ -18,83 +10,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Indonesia U19 vs Myanmar U19 | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144741_fdcbb7f7.png" group-title="CHUOI CHIEN TV",[20:00] Indonesia U19 vs Myanmar U19 | Chuối Bơ
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Indonesia U19 vs Myanmar U19 | Alex" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144741_fdcbb7f7.png" group-title="CHUOI CHIEN TV",[20:00] Indonesia U19 vs Myanmar U19 | Alex
-https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/alexhd.flv
-https://gckc0525.edgemaxcdn.org/live/alex.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Japan U20 vs Côte d'Ivoire U20 | Anh Béo" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png" group-title="CHUOI CHIEN TV",[20:00] Japan U20 vs Côte d'Ivoire U20 | Anh Béo
+#EXTINF:-1 tvg-id="" tvg-name="[00:30] Türkiye vs FYR Macedonia | Anh Béo" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[00:30] Türkiye vs FYR Macedonia | Anh Béo
 https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv
 https://gckc0525.edgemaxcdn.org/live/anhbeo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] AL Masry vs Masr | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130124_ae02cf78.png" group-title="CHUOI CHIEN TV",[21:00] AL Masry vs Masr | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[23:00] Bulgaria vs Montenegro | Alex" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134258_abb0ed43.png" group-title="CHUOI CHIEN TV",[23:00] Bulgaria vs Montenegro | Alex
-https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/alexhd.flv
-https://gckc0525.edgemaxcdn.org/live/alex.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[23:00] Slovakia vs Malta | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png" group-title="CHUOI CHIEN TV",[23:00] Slovakia vs Malta | Chuối Tây
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[23:30] Türkiye vs FYR Macedonia | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[23:30] Türkiye vs FYR Macedonia | Chuối Nhỏ
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[23:30] Türkiye vs FYR Macedonia | Anh Béo" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV",[23:30] Türkiye vs FYR Macedonia | Anh Béo
-https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv
-https://gckc0525.edgemaxcdn.org/live/anhbeo.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[00:00] Norway vs Sweden | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250715_194710_e484b2d5.png" group-title="CHUOI CHIEN TV",[00:00] Norway vs Sweden | Chuối Xuyên Không
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="[00:00] Norway vs Sweden | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250715_194710_e484b2d5.png" group-title="CHUOI CHIEN TV",[00:00] Norway vs Sweden | Chuối To
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -135,4 +55,132 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Thailand U19 vs Brunei U19 | Alex" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png" group-title="CHUOI CHIEN TV",[16:00] Thailand U19 vs Brunei U19 | Alex
+https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alexhd.flv
+https://gckc0525.edgemaxcdn.org/live/alex.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Thailand U19 vs Brunei U19 | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png" group-title="CHUOI CHIEN TV",[16:00] Thailand U19 vs Brunei U19 | Chuối Tây
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Metalurh Zaporizhya vs Bukovyna | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125755_bc571b33.png" group-title="CHUOI CHIEN TV",[17:00] Metalurh Zaporizhya vs Bukovyna | Chuối Nhỏ
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Metalurh Zaporizhya vs Bukovyna | Ngộ Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125755_bc571b33.png" group-title="CHUOI CHIEN TV",[17:00] Metalurh Zaporizhya vs Bukovyna | Ngộ Không
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
+https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[19:15] Brunei vs Timor-Leste | Chuối Xuyên Không" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132717_27d7fb21.png" group-title="CHUOI CHIEN TV",[19:15] Brunei vs Timor-Leste | Chuối Xuyên Không
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[19:15] Brunei vs Timor-Leste | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132717_27d7fb21.png" group-title="CHUOI CHIEN TV",[19:15] Brunei vs Timor-Leste | Chuối To
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Malaysia U19 vs Singapore U19 | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/20250902_193521_ec2f00c2.png" group-title="CHUOI CHIEN TV",[20:00] Malaysia U19 vs Singapore U19 | Chuối Bơ
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] China PR U20 vs Congo DR U20 | Alex" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134345_d31bb816.png" group-title="CHUOI CHIEN TV",[20:00] China PR U20 vs Congo DR U20 | Alex
+https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alexhd.flv
+https://gckc0525.edgemaxcdn.org/live/alex.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] Gharraf vs Naft Maysan | Ngộ Không" tvg-logo="https://media.api-sports.io/football/teams/26600.png" group-title="CHUOI CHIEN TV",[22:00] Gharraf vs Naft Maysan | Ngộ Không
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
+https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] Al Kahrabaa vs Al-Karma | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142824_417c2a88.png" group-title="CHUOI CHIEN TV",[22:00] Al Kahrabaa vs Al-Karma | Chuối Tây
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] Croatia vs Belgium | Chuối Nhỏ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125448_7dd16e8b.png" group-title="CHUOI CHIEN TV",[23:00] Croatia vs Belgium | Chuối Nhỏ
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[23:30] Saudi Arabia U23 vs Colombia U20 | Chuối To" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134339_952f6da3.png" group-title="CHUOI CHIEN TV",[23:30] Saudi Arabia U23 vs Colombia U20 | Chuối To
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Georgia vs Romania | Chuối Bơ" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV",[00:00] Georgia vs Romania | Chuối Bơ
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Morocco vs Madagascar | Anh Béo" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png" group-title="CHUOI CHIEN TV",[00:00] Morocco vs Madagascar | Anh Béo
+https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv
+https://gckc0525.edgemaxcdn.org/live/anhbeo.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[01:45] Wales vs Ghana | Chuối Tây" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134251_66ec2f9b.png" group-title="CHUOI CHIEN TV",[01:45] Wales vs Ghana | Chuối Tây
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="[02:00] Tanzania U17 vs Senegal U17 | Alex" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145017_77e006c2.png" group-title="CHUOI CHIEN TV",[02:00] Tanzania U17 vs Senegal U17 | Alex
+https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/alexhd.flv
+https://gckc0525.edgemaxcdn.org/live/alex.flv
 

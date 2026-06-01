@@ -1,121 +1,9 @@
 [
   {
     "match_id": "",
-    "home": "Denmark U17",
-    "away": "Italy U17",
-    "kickoff": "18:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_144533_426eb2ea.png",
-    "streamer": "Ngộ Không",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "France U17",
-    "away": "Montenegro U17",
-    "kickoff": "18:30",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_144523_e304fc82.png",
-    "streamer": "Chuối Nhỏ",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Indonesia U19",
-    "away": "Myanmar U19",
-    "kickoff": "20:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_144741_fdcbb7f7.png",
-    "streamer": "Chuối Bơ",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Indonesia U19",
-    "away": "Myanmar U19",
-    "kickoff": "20:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_144741_fdcbb7f7.png",
-    "streamer": "Alex",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/alex.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Japan U20",
-    "away": "Côte d'Ivoire U20",
-    "kickoff": "20:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_144953_f7c8e720.png",
-    "streamer": "Anh Béo",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/anhbeo.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "AL Masry",
-    "away": "Masr",
-    "kickoff": "21:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_130124_ae02cf78.png",
-    "streamer": "Chuối Xuyên Không",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/max.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Bulgaria",
-    "away": "Montenegro",
-    "kickoff": "23:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134258_abb0ed43.png",
-    "streamer": "Alex",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/alex.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Slovakia",
-    "away": "Malta",
-    "kickoff": "23:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125500_4322e9ab.png",
-    "streamer": "Chuối Tây",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
-    ]
-  },
-  {
-    "match_id": "",
     "home": "Türkiye",
     "away": "FYR Macedonia",
-    "kickoff": "23:30",
+    "kickoff": "00:30",
     "logo": "https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png",
     "streamer": "Chuối Nhỏ",
     "links": [
@@ -129,7 +17,7 @@
     "match_id": "",
     "home": "Türkiye",
     "away": "FYR Macedonia",
-    "kickoff": "23:30",
+    "kickoff": "00:30",
     "logo": "https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png",
     "streamer": "Anh Béo",
     "links": [
@@ -137,34 +25,6 @@
       "https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8",
       "https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv",
       "https://gckc0525.edgemaxcdn.org/live/anhbeo.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Norway",
-    "away": "Sweden",
-    "kickoff": "00:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250715_194710_e484b2d5.png",
-    "streamer": "Chuối Xuyên Không",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/max.flv"
-    ]
-  },
-  {
-    "match_id": "",
-    "home": "Norway",
-    "away": "Sweden",
-    "kickoff": "00:00",
-    "logo": "https://media.chuoichientv.com/media/uploads/20250715_194710_e484b2d5.png",
-    "streamer": "Chuối To",
-    "links": [
-      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
     ]
   },
   {
@@ -235,6 +95,230 @@
       "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
       "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
       "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Thailand U19",
+    "away": "Brunei U19",
+    "kickoff": "16:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",
+    "streamer": "Alex",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/alex.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Thailand U19",
+    "away": "Brunei U19",
+    "kickoff": "16:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",
+    "streamer": "Chuối Tây",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Metalurh Zaporizhya",
+    "away": "Bukovyna",
+    "kickoff": "17:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125755_bc571b33.png",
+    "streamer": "Chuối Nhỏ",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Metalurh Zaporizhya",
+    "away": "Bukovyna",
+    "kickoff": "17:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125755_bc571b33.png",
+    "streamer": "Ngộ Không",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Brunei",
+    "away": "Timor-Leste",
+    "kickoff": "19:15",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132717_27d7fb21.png",
+    "streamer": "Chuối Xuyên Không",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/max.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Brunei",
+    "away": "Timor-Leste",
+    "kickoff": "19:15",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132717_27d7fb21.png",
+    "streamer": "Chuối To",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Malaysia U19",
+    "away": "Singapore U19",
+    "kickoff": "20:00",
+    "logo": "https://media.chuoichientv.com/media/20250902_193521_ec2f00c2.png",
+    "streamer": "Chuối Bơ",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "China PR U20",
+    "away": "Congo DR U20",
+    "kickoff": "20:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134345_d31bb816.png",
+    "streamer": "Alex",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/alex.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Gharraf",
+    "away": "Naft Maysan",
+    "kickoff": "22:00",
+    "logo": "https://media.api-sports.io/football/teams/26600.png",
+    "streamer": "Ngộ Không",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Al Kahrabaa",
+    "away": "Al-Karma",
+    "kickoff": "22:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_142824_417c2a88.png",
+    "streamer": "Chuối Tây",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Croatia",
+    "away": "Belgium",
+    "kickoff": "23:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125448_7dd16e8b.png",
+    "streamer": "Chuối Nhỏ",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Saudi Arabia U23",
+    "away": "Colombia U20",
+    "kickoff": "23:30",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134339_952f6da3.png",
+    "streamer": "Chuối To",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Georgia",
+    "away": "Romania",
+    "kickoff": "00:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_125506_b2c0a574.png",
+    "streamer": "Chuối Bơ",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Morocco",
+    "away": "Madagascar",
+    "kickoff": "00:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",
+    "streamer": "Anh Béo",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/anhbeo.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Wales",
+    "away": "Ghana",
+    "kickoff": "01:45",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_134251_66ec2f9b.png",
+    "streamer": "Chuối Tây",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
+    ]
+  },
+  {
+    "match_id": "",
+    "home": "Tanzania U17",
+    "away": "Senegal U17",
+    "kickoff": "02:00",
+    "logo": "https://media.chuoichientv.com/media/uploads/20250623_145017_77e006c2.png",
+    "streamer": "Alex",
+    "links": [
+      "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
+      "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
+      "https://gckc0525.edgemaxcdn.org/live/alex.flv"
     ]
   }
 ]
